@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 - 🔭 I’m currently working on automated gerrymandering classification and equitible redistricting using machine learning and discrete geometry 
 - 🌱 I’m currently learning go, blender, how to draw
