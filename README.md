@@ -8,4 +8,3 @@
 - 📫 How to reach me: @rachelqqq#5205 on discord. Send me an ask on my blog. For academic or work contacts, email is preferred. ORCID, arxiv and researcherid coming soon.
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I like opossums probably too much.
--->
